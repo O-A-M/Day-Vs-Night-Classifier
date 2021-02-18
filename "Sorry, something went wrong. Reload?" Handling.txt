@@ -1,0 +1,14 @@
+"Sorry, something went wrong. Reload?" Handling:
+------------------------------------------------
+Sol1:
+Try to reload the github page several times till opening.
+
+Sol2:
+1. "Download ZIP" the code through the "Code" green button appears on the top right.
+2. Extract the zipped code file.
+3. Assuming that Anaconda3 is already installed, open up the terminal and change the directory (cd) to the code file location
+i.e. username:~/Downloads/Day-Vs-Night-Classifier$
+4. Type "jupyter notebook" and then click the Enter key  
+i.e. username:~/Downloads/Day-Vs-Night-Classifier$ jupyter notebook
+5. Open up "Day Vs Night Classifier.ipynb" notebook.
+6. Congrats, you can now test the code.
